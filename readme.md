@@ -1,3 +1,14 @@
+
+
+This project is hosted on GitHub Pages. Click the link below to try it out right in your browser:
+
+✨ View the Live To-Do App Here! ✨
+
+
+
+
+
+
 # 📝 Simple To-Do List App
 
 A clean, simple, and persistent to-do list application built with vanilla JavaScript and Bootstrap. This project allows users to add, manage, and delete tasks. All tasks are saved in the browser's `localStorage`, so your to-dos will be waiting for you when you return.
