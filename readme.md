@@ -2,7 +2,7 @@
 
 This project is hosted on GitHub Pages. Click the link below to try it out right in your browser:
 
-✨ View the Live To-Do App Here! ✨
+✨ [Click here to view the live demo](https://am1407.github.io/todo_list_application/) ✨
 
 
 
